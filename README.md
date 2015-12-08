@@ -8,5 +8,6 @@ WHOIS data retrieval and parser library for Go programming language.
 
 ## Command Line Program Usage
 `./bin/whois <domain name> [whois_server [port]]`
+
 Example:
 `./bin/whois example.com`
